@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f2a7c45-252d-458b-8da4-5acdcc09b167" name="Changes" comment="Add basic react tree">
+      <change afterPath="$PROJECT_DIR$/ .prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-tree-component.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/File/File.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/File/File.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/Folder/Folder.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/Folder/Folder.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/Tree.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/Tree.types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Tree/TreeHeader/TreeHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/consts/tree.data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useHover.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/EditIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/FileIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/FilePlusIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/FolderIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/FolderOpenedIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/FolderPlusIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/SquareMinusIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/SquarePlusIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/XIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2WR63IiNASlS9gpp7LmUHRrBi4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "19.6.0",
+    "javascript.nodejs.core.library.typings.version": "20.8.3",
+    "last_opened_file_path": "/Users/poselovesky/Projects/react-tailwind-tree-component",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/poselovesky/Projects/react-tailwind-tree-component/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Users/poselovesky/Projects/react-tailwind-tree-component/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Tree" />
+      <recent name="$PROJECT_DIR$/src/components/Tree/File" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/consts" />
+      <recent name="$PROJECT_DIR$/src/components/Tree" />
+      <recent name="$PROJECT_DIR$/src/components/Tree/Folder" />
+      <recent name="$PROJECT_DIR$/src/components/Tree/File" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f2a7c45-252d-458b-8da4-5acdcc09b167" name="Changes" comment="" />
+      <created>1696682844694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696682844694</updated>
+      <workItem from="1696682845694" duration="513000" />
+      <workItem from="1696683366072" duration="16717000" />
+      <workItem from="1696720928213" duration="166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add basic react tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add basic react tree" />
+  </component>
+</project>
