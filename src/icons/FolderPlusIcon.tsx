@@ -7,14 +7,14 @@ const FolderPlusIcon = ({ className }: FolderPlusIconProps) => {
 			className={className}
 			data-testid="geist-icon"
 			fill="none"
-			height="16"
+			height="18"
 			shapeRendering="geometricPrecision"
 			stroke="currentColor"
 			strokeLinecap="round"
 			strokeLinejoin="round"
 			strokeWidth="1.5"
 			viewBox="0 0 24 24"
-			width="16"
+			width="18"
 		>
 			<path d="M22 19a2 2 0 01-2 2H4a2 2 0 01-2-2V5a2 2 0 012-2h5l2 3h9a2 2 0 012 2z" />
 			<path d="M12 11v6" />
