@@ -12,7 +12,6 @@ export const useHover = (): [boolean, React.Ref<HTMLDivElement>] => {
 			node.addEventListener('mouseenter', handleMouseEnter)
 			node.addEventListener('mouseleave', handleMouseLeave)
 
-			// При размонтировании удаляем слушатели
 			return () => {
 				node.removeEventListener('mouseenter', handleMouseEnter)
 				node.removeEventListener('mouseleave', handleMouseLeave)
